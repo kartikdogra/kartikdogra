@@ -5,10 +5,16 @@
   <li>Currently working as a <strong>Technical Lead at Uponly Technologies</strong>, where I lead a team of 10 engineers building scalable products across diverse domains.</li>
   <li>Proficient in technologies like <strong>Java, Node.js, PHP, ReactJS, Kafka, Docker, Kubernetes, AWS, Azure</strong>, and experienced with <strong>AI & LLMs (Meta LLaMA, DeepSeek, LangChain)</strong>.</li>
   <li>Passionate about building efficient, secure, and innovative solutions that scale.</li>
-  <li>Feel free to check out my <a href="https://github.com/kartikdogra">projects</a> and connect with me on <a href="https://www.linkedin.com/in/kartikdogra99/">LinkedIn</a> to stay updated!</li>
+  <li>Feel free to check out my <a href="https://github.com/kartikdogra">projects</a> and connect with me on LinkedIn.</li>
 </ul>
 
-<!-- Profile View Counter -->
+<!-- LinkedIn Card -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartikdogra99/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartik%20Dogra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartik99&color=brightgreen" alt="Profile views" />
 </p>
