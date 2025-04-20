@@ -15,6 +15,15 @@
   </a>
 </p>
 
+<!-- Optionally, you can use this as a more visual card look -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartikdogra99/" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik99&theme=default" />
+  </a>
+</p>
+
+<!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartik99&color=brightgreen" alt="Profile views" />
 </p>
